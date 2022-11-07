@@ -8,3 +8,4 @@ Today we are going to practice using bash commands like:
 `git commit`
 
 # Conflict 3
+This is another conflict, but resolved
